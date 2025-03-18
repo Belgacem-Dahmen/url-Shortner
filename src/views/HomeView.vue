@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import NavBar from '@/components/Navbar.vue'
+import IntroSection from '@/components/IntroSection.vue'
 </script>
 
 <template>
-  <NavBar />
+  <IntroSection />
 </template>

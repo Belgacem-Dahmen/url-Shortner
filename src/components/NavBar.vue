@@ -33,7 +33,6 @@ const toggleMenu = () => {
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
   align-items: center;
 }
 
@@ -55,9 +54,6 @@ const toggleMenu = () => {
 }
 
 @media screen and (max-width: 685px) {
-  .navbar {
-    padding: 20px;
-  }
   .navbar__left-links {
     display: none;
   }

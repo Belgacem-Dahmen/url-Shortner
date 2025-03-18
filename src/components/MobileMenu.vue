@@ -15,7 +15,7 @@ import MainLink from '@/components/MainLink.vue'
   background-color: var(--color-primary-dark-violet);
   max-width: 100%;
   margin: 5px 15px;
-  padding: 25px;
+  padding: 50px 0;
   border-radius: 10px;
   display: none;
   flex-direction: column;
