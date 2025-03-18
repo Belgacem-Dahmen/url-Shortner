@@ -33,7 +33,7 @@ const toggleMenu = () => {
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 35px;
+  padding: 20px;
   align-items: center;
 }
 
